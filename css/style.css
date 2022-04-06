@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body{
+    transition: 0.7s;
+}
+button {
+  font-size: 40px;
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  margin: 20px 0 0 20px;
+}
+
+a {
+  visibility: hidden;
+}
+/*# sourceMappingURL=style.css.map */
